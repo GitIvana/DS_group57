@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PacketsTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-07T02:24:22" hostname="DESKTOP-HKL6JGO" time="0.015">
+  <properties/>
+  <testcase name="shouldSer()" classname="PacketsTests" time="0.011"/>
+  <testcase name="shouldDe()" classname="PacketsTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

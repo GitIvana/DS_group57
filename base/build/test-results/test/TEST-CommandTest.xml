@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommandTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-07T02:24:21" hostname="DESKTOP-HKL6JGO" time="0.175">
+  <properties/>
+  <testcase name="shouldSerializeMapped()" classname="CommandTest" time="0.152"/>
+  <testcase name="shouldDeserializeToMap()" classname="CommandTest" time="0.022"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
